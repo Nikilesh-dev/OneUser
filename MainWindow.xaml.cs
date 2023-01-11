@@ -122,10 +122,7 @@ namespace OneUser
                 }
 
                 
-                if (Gender != "Male" && Gender != "Female")
-                {
-                    lblGender.Visibility = Visibility;
-                }
+              
 
 
             }
